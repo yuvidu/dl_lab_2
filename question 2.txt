@@ -1,0 +1,1 @@
+in smaller numbers like 1, 2 accuracy is verry lower like 67% and when increase upto the 7% and higher it increase upto 92 % at top it is 15 and after 20% it again persisting at 90%
